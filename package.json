@@ -1,0 +1,20 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "O desafio consiste em criar um **Sistema Bancário** simples utilizando **TypeScript**, com foco em modelagem orientada a objetos. A proposta é implementar um banco comunitário fictício que permita o gerenciamento de **clientes** e **contas bancárias**, além de realizar operações financeiras básicas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iago-V-Schmitz/projeto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iago-V-Schmitz/projeto/issues"
+  },
+  "homepage": "https://github.com/Iago-V-Schmitz/projeto#readme"
+}
